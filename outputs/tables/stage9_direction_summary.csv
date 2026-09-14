@@ -1,0 +1,8 @@
+term,term_label,evidence_category,countries,share,positive_countries,total_countries,positive_share
+distrust_index_three,Representative-political-institution distrust,negative_interval_below_zero,2,0.08695652173913043,18,23,0.782608695652174
+distrust_index_three,Representative-political-institution distrust,negative_interval_includes_zero,3,0.13043478260869565,18,23,0.782608695652174
+distrust_index_three,Representative-political-institution distrust,positive_interval_above_zero,15,0.6521739130434783,18,23,0.782608695652174
+distrust_index_three,Representative-political-institution distrust,positive_interval_includes_zero,3,0.13043478260869565,18,23,0.782608695652174
+viepol,People's views should prevail,negative_interval_includes_zero,3,0.13043478260869565,20,23,0.8695652173913043
+viepol,People's views should prevail,positive_interval_above_zero,5,0.21739130434782608,20,23,0.8695652173913043
+viepol,People's views should prevail,positive_interval_includes_zero,15,0.6521739130434783,20,23,0.8695652173913043

@@ -1,0 +1,163 @@
+cntry,measure,score_band,weighted_share,observed_n
+AT,Political distrust index (trstprl + trstplt + trstprt),0-3,0.07125038313836472,1377
+AT,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6865027193441654,1377
+AT,Political distrust index (trstprl + trstplt + trstprt),8-10,0.24224689751746983,1377
+AT,viepol (ordinary people's views should prevail over political elites),0-3,0.12389490823077526,1347
+AT,viepol (ordinary people's views should prevail over political elites),4-7,0.45704171698413465,1347
+AT,viepol (ordinary people's views should prevail over political elites),8-10,0.41906337478509004,1347
+BE,Political distrust index (trstprl + trstplt + trstprt),0-3,0.08036601099003271,840
+BE,Political distrust index (trstprl + trstplt + trstprt),4-7,0.7258917268823221,840
+BE,Political distrust index (trstprl + trstplt + trstprt),8-10,0.19374226212764523,840
+BE,viepol (ordinary people's views should prevail over political elites),0-3,0.045440806008685504,837
+BE,viepol (ordinary people's views should prevail over political elites),4-7,0.4637127152058689,837
+BE,viepol (ordinary people's views should prevail over political elites),8-10,0.4908464787854457,837
+BG,Political distrust index (trstprl + trstplt + trstprt),0-3,0.028532271637178152,1417
+BG,Political distrust index (trstprl + trstplt + trstprt),4-7,0.48745140228354916,1417
+BG,Political distrust index (trstprl + trstplt + trstprt),8-10,0.4840163260792728,1417
+BG,viepol (ordinary people's views should prevail over political elites),0-3,0.029672351134299144,1394
+BG,viepol (ordinary people's views should prevail over political elites),4-7,0.3343363449559667,1394
+BG,viepol (ordinary people's views should prevail over political elites),8-10,0.635991303909734,1394
+CH,Political distrust index (trstprl + trstplt + trstprt),0-3,0.32104921694144467,654
+CH,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6549632991455651,654
+CH,Political distrust index (trstprl + trstplt + trstprt),8-10,0.023987483912990323,654
+CH,viepol (ordinary people's views should prevail over political elites),0-3,0.07975422366127102,647
+CH,viepol (ordinary people's views should prevail over political elites),4-7,0.4155013753046775,647
+CH,viepol (ordinary people's views should prevail over political elites),8-10,0.5047444010340514,647
+CY,Political distrust index (trstprl + trstplt + trstprt),0-3,0.026881762112401297,525
+CY,Political distrust index (trstprl + trstplt + trstprt),4-7,0.5298955380298606,525
+CY,Political distrust index (trstprl + trstplt + trstprt),8-10,0.4432226998577381,525
+CY,viepol (ordinary people's views should prevail over political elites),0-3,0.04280380691277969,520
+CY,viepol (ordinary people's views should prevail over political elites),4-7,0.3553750690729281,520
+CY,viepol (ordinary people's views should prevail over political elites),8-10,0.6018211240142922,520
+CZ,Political distrust index (trstprl + trstplt + trstprt),0-3,0.1729539311063383,1342
+CZ,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6327256851184134,1342
+CZ,Political distrust index (trstprl + trstplt + trstprt),8-10,0.19432038377524832,1342
+CZ,viepol (ordinary people's views should prevail over political elites),0-3,0.04289616421150232,1328
+CZ,viepol (ordinary people's views should prevail over political elites),4-7,0.37524574494195323,1328
+CZ,viepol (ordinary people's views should prevail over political elites),8-10,0.5818580908465444,1328
+DE,Political distrust index (trstprl + trstplt + trstprt),0-3,0.13196459763179358,5883
+DE,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6970938147190322,5883
+DE,Political distrust index (trstprl + trstplt + trstprt),8-10,0.17094158764917428,5883
+DE,viepol (ordinary people's views should prevail over political elites),0-3,0.1031801972713368,5735
+DE,viepol (ordinary people's views should prevail over political elites),4-7,0.49424813505772164,5735
+DE,viepol (ordinary people's views should prevail over political elites),8-10,0.40257166767094155,5735
+EE,Political distrust index (trstprl + trstplt + trstprt),0-3,0.10586246099339416,918
+EE,Political distrust index (trstprl + trstplt + trstprt),4-7,0.7800420025981597,918
+EE,Political distrust index (trstprl + trstplt + trstprt),8-10,0.1140955364084462,918
+EE,viepol (ordinary people's views should prevail over political elites),0-3,0.0551377443141401,911
+EE,viepol (ordinary people's views should prevail over political elites),4-7,0.4641999631503247,911
+EE,viepol (ordinary people's views should prevail over political elites),8-10,0.4806622925355351,911
+ES,Political distrust index (trstprl + trstplt + trstprt),0-3,0.03479961822507131,1401
+ES,Political distrust index (trstprl + trstplt + trstprt),4-7,0.48737866728139007,1401
+ES,Political distrust index (trstprl + trstplt + trstprt),8-10,0.4778217144935387,1401
+ES,viepol (ordinary people's views should prevail over political elites),0-3,0.04805673023874305,1397
+ES,viepol (ordinary people's views should prevail over political elites),4-7,0.3615700611093733,1397
+ES,viepol (ordinary people's views should prevail over political elites),8-10,0.5903732086518837,1397
+FI,Political distrust index (trstprl + trstplt + trstprt),0-3,0.38497920706462363,1094
+FI,Political distrust index (trstprl + trstplt + trstprt),4-7,0.5730033038693664,1094
+FI,Political distrust index (trstprl + trstplt + trstprt),8-10,0.04201748906600989,1094
+FI,viepol (ordinary people's views should prevail over political elites),0-3,0.05897277859813754,1082
+FI,viepol (ordinary people's views should prevail over political elites),4-7,0.32352859159309266,1082
+FI,viepol (ordinary people's views should prevail over political elites),8-10,0.6174986298087698,1082
+FR,Political distrust index (trstprl + trstplt + trstprt),0-3,0.05934215612246238,818
+FR,Political distrust index (trstprl + trstplt + trstprt),4-7,0.7821399819341825,818
+FR,Political distrust index (trstprl + trstplt + trstprt),8-10,0.15851786194335518,818
+FR,viepol (ordinary people's views should prevail over political elites),0-3,0.04232930256358006,810
+FR,viepol (ordinary people's views should prevail over political elites),4-7,0.4216822806030065,810
+FR,viepol (ordinary people's views should prevail over political elites),8-10,0.5359884168334135,810
+GB,Political distrust index (trstprl + trstplt + trstprt),0-3,0.08149366282285965,821
+GB,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6612882770245876,821
+GB,Political distrust index (trstprl + trstplt + trstprt),8-10,0.2572180601525526,821
+GB,viepol (ordinary people's views should prevail over political elites),0-3,0.0269971943070807,816
+GB,viepol (ordinary people's views should prevail over political elites),4-7,0.23845845842463417,816
+GB,viepol (ordinary people's views should prevail over political elites),8-10,0.7345443472682852,816
+GR,Political distrust index (trstprl + trstplt + trstprt),0-3,0.09848979285691535,1756
+GR,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6996292323044123,1756
+GR,Political distrust index (trstprl + trstplt + trstprt),8-10,0.20188097483867243,1756
+GR,viepol (ordinary people's views should prevail over political elites),0-3,0.011380106397436923,1747
+GR,viepol (ordinary people's views should prevail over political elites),4-7,0.31428809053626466,1747
+GR,viepol (ordinary people's views should prevail over political elites),8-10,0.6743318030662984,1747
+HR,Political distrust index (trstprl + trstplt + trstprt),0-3,0.05445229129102231,667
+HR,Political distrust index (trstprl + trstplt + trstprt),4-7,0.5112275073035553,667
+HR,Political distrust index (trstprl + trstplt + trstprt),8-10,0.4343202014054224,667
+HR,viepol (ordinary people's views should prevail over political elites),0-3,0.028192184766694644,664
+HR,viepol (ordinary people's views should prevail over political elites),4-7,0.2155517745449645,664
+HR,viepol (ordinary people's views should prevail over political elites),8-10,0.7562560406883408,664
+HU,Political distrust index (trstprl + trstplt + trstprt),0-3,0.21775072154671204,1016
+HU,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6580124367778154,1016
+HU,Political distrust index (trstprl + trstplt + trstprt),8-10,0.12423684167547236,1016
+HU,viepol (ordinary people's views should prevail over political elites),0-3,0.018785895983314333,1019
+HU,viepol (ordinary people's views should prevail over political elites),4-7,0.3509474310821874,1019
+HU,viepol (ordinary people's views should prevail over political elites),8-10,0.6302666729344983,1019
+IE,Political distrust index (trstprl + trstplt + trstprt),0-3,0.1617678237501438,1062
+IE,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6435335300717773,1062
+IE,Political distrust index (trstprl + trstplt + trstprt),8-10,0.19469864617807897,1062
+IE,viepol (ordinary people's views should prevail over political elites),0-3,0.021754143184200082,1075
+IE,viepol (ordinary people's views should prevail over political elites),4-7,0.32708516368775276,1075
+IE,viepol (ordinary people's views should prevail over political elites),8-10,0.6511606931280473,1075
+IS,Political distrust index (trstprl + trstplt + trstprt),0-3,0.21669829619593753,610
+IS,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6934736505835927,610
+IS,Political distrust index (trstprl + trstplt + trstprt),8-10,0.08982805322046991,610
+IS,viepol (ordinary people's views should prevail over political elites),0-3,0.08041465314680056,596
+IS,viepol (ordinary people's views should prevail over political elites),4-7,0.4213031377860802,596
+IS,viepol (ordinary people's views should prevail over political elites),8-10,0.4982822090671193,596
+IT,Political distrust index (trstprl + trstplt + trstprt),0-3,0.06126805133832458,1055
+IT,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6893389063509436,1055
+IT,Political distrust index (trstprl + trstplt + trstprt),8-10,0.2493930423107318,1055
+IT,viepol (ordinary people's views should prevail over political elites),0-3,0.025106313970841423,1041
+IT,viepol (ordinary people's views should prevail over political elites),4-7,0.44978294403888613,1041
+IT,viepol (ordinary people's views should prevail over political elites),8-10,0.5251107419902723,1041
+LT,Political distrust index (trstprl + trstplt + trstprt),0-3,0.11179197602930939,848
+LT,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6750792904249543,848
+LT,Political distrust index (trstprl + trstplt + trstprt),8-10,0.21312873354573644,848
+LT,viepol (ordinary people's views should prevail over political elites),0-3,0.05218890009203253,822
+LT,viepol (ordinary people's views should prevail over political elites),4-7,0.45088861484316456,822
+LT,viepol (ordinary people's views should prevail over political elites),8-10,0.4969224850648029,822
+LV,Political distrust index (trstprl + trstplt + trstprt),0-3,0.03516270468682745,611
+LV,Political distrust index (trstprl + trstplt + trstprt),4-7,0.530328327157512,611
+LV,Political distrust index (trstprl + trstplt + trstprt),8-10,0.43450896815566076,611
+LV,viepol (ordinary people's views should prevail over political elites),0-3,0.06303457943074443,601
+LV,viepol (ordinary people's views should prevail over political elites),4-7,0.41496768931299804,601
+LV,viepol (ordinary people's views should prevail over political elites),8-10,0.5219977312562575,601
+NL,Political distrust index (trstprl + trstplt + trstprt),0-3,0.21753071193818868,1153
+NL,Political distrust index (trstprl + trstplt + trstprt),4-7,0.7396985364994457,1153
+NL,Political distrust index (trstprl + trstplt + trstprt),8-10,0.04277075156236565,1153
+NL,viepol (ordinary people's views should prevail over political elites),0-3,0.08806141234079996,1139
+NL,viepol (ordinary people's views should prevail over political elites),4-7,0.519963327017599,1139
+NL,viepol (ordinary people's views should prevail over political elites),8-10,0.39197526064160104,1139
+NO,Political distrust index (trstprl + trstplt + trstprt),0-3,0.35675955992490954,1047
+NO,Political distrust index (trstprl + trstplt + trstprt),4-7,0.5945793068500163,1047
+NO,Political distrust index (trstprl + trstplt + trstprt),8-10,0.04866113322507413,1047
+NO,viepol (ordinary people's views should prevail over political elites),0-3,0.01973882268011873,1037
+NO,viepol (ordinary people's views should prevail over political elites),4-7,0.27298182540997423,1037
+NO,viepol (ordinary people's views should prevail over political elites),8-10,0.7072793519099071,1037
+PL,Political distrust index (trstprl + trstplt + trstprt),0-3,0.033346455965182965,1429
+PL,Political distrust index (trstprl + trstplt + trstprt),4-7,0.42245505451868054,1429
+PL,Political distrust index (trstprl + trstplt + trstprt),8-10,0.5441984895161365,1429
+PL,viepol (ordinary people's views should prevail over political elites),0-3,0.0494670280973825,1427
+PL,viepol (ordinary people's views should prevail over political elites),4-7,0.3727675827342868,1427
+PL,viepol (ordinary people's views should prevail over political elites),8-10,0.5777653891683306,1427
+PT,Political distrust index (trstprl + trstplt + trstprt),0-3,0.07699636074685566,765
+PT,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6784580529520785,765
+PT,Political distrust index (trstprl + trstplt + trstprt),8-10,0.24454558630106576,765
+PT,viepol (ordinary people's views should prevail over political elites),0-3,0.02777799480255569,740
+PT,viepol (ordinary people's views should prevail over political elites),4-7,0.3880940613001902,740
+PT,viepol (ordinary people's views should prevail over political elites),8-10,0.584127943897254,740
+SE,Political distrust index (trstprl + trstplt + trstprt),0-3,0.16382697773285823,1811
+SE,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6845359846625538,1811
+SE,Political distrust index (trstprl + trstplt + trstprt),8-10,0.15163703760458797,1811
+SE,viepol (ordinary people's views should prevail over political elites),0-3,0.06700450233216503,1809
+SE,viepol (ordinary people's views should prevail over political elites),4-7,0.4792700819061959,1809
+SE,viepol (ordinary people's views should prevail over political elites),8-10,0.4537254157616391,1809
+SI,Political distrust index (trstprl + trstplt + trstprt),0-3,0.04027257378887286,569
+SI,Political distrust index (trstprl + trstplt + trstprt),4-7,0.6760087938467944,569
+SI,Political distrust index (trstprl + trstplt + trstprt),8-10,0.28371863236433276,569
+SI,viepol (ordinary people's views should prevail over political elites),0-3,0.034597984466842036,564
+SI,viepol (ordinary people's views should prevail over political elites),4-7,0.2525515245993856,564
+SI,viepol (ordinary people's views should prevail over political elites),8-10,0.7128504909337722,564
+SK,Political distrust index (trstprl + trstplt + trstprt),0-3,0.09469065026990145,808
+SK,Political distrust index (trstprl + trstplt + trstprt),4-7,0.5522677444115448,808
+SK,Political distrust index (trstprl + trstplt + trstprt),8-10,0.3530416053185537,808
+SK,viepol (ordinary people's views should prevail over political elites),0-3,0.047819836137970625,793
+SK,viepol (ordinary people's views should prevail over political elites),4-7,0.3294344981848976,793
+SK,viepol (ordinary people's views should prevail over political elites),8-10,0.6227456656771317,793

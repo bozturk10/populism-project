@@ -1,0 +1,44 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+.ruff_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Generated analysis data
+/data/processed/*
+!/data/processed/.gitkeep
+
+/data/raw/ESS_R10/
+/data/raw/PopuList/docs/
+/data/raw/PartyFacts/
+/data/raw/ParlGov/
+/data/raw/populist_4_0.csv
+/data/raw/ess_round_10_variables_*.txt
+
+
+.env
+.DS_Store
+
+# Local editors, agents, and task tracking
+.cursor/
+.codex/
+.agents/
+AGENTS.md
+backlog/
+
+# Working material and temporary artifacts
+Papers/
+lecture_material/
+plans/
+tmp/
+~$*.docx
+/outputs/manuscript/
+/outputs/reports/*.html

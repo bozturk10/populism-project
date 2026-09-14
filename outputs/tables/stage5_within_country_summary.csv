@@ -1,0 +1,5 @@
+measure,measure_label,weighting,countries,countries_positive_difference,equal_country_mean_difference,median_country_difference,min_country_difference,max_country_difference
+distrust_index_three,Political distrust index,weighted,23,18,0.7868624096733791,0.9981487151801556,-1.9447840390471036,2.727301071664325
+distrust_index_three,Political distrust index,unweighted,23,18,0.7753500274700883,0.9452937649880102,-1.916615405027259,2.770628998930298
+viepol,People's views should prevail (viepol),weighted,23,19,0.35683137478766647,0.32344905820243497,-0.24310154899846292,1.388199648154849
+viepol,People's views should prevail (viepol),unweighted,23,18,0.35393712198803323,0.2711081257124244,-0.2512778962669939,1.2037210426168112

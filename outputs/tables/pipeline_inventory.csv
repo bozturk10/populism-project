@@ -1,0 +1,12 @@
+Step,Code,Principal output,Status
+1,analysis/01_build_respondent_base.py,data/processed/ess10_respondent_base.csv,Complete
+2,analysis/02_merge_with_populist_data.py,data/processed/ess10_party_mapping.csv,Complete
+3,analysis/03_build_analysis_base.py,data/processed/ess10_analysis_base.csv,Complete
+4,analysis/04_measurement_diagnostics.py,outputs/reports/measurement_diagnostics.html,Complete; owner accepted
+5,analysis/05_descriptive_comparisons.py,outputs/reports/descriptive_comparisons.html,Complete; owner accepted
+6,analysis/06_fit_models.py,outputs/reports/main_models.html,Complete; owner accepted
+7,analysis/07_robustness.py,outputs/reports/robustness.html,Complete; owner accepted
+8,analysis/08_build_final_report.py,outputs/reports/final_report.html,Complete; owner accepted
+9A,analysis/09_country_heterogeneity.py,outputs/reports/country_heterogeneity.html,Complete; owner auto-accepted
+9B,analysis/09b_government_context.py,outputs/reports/government_context.html,Complete; owner auto-accepted
+90,analysis/90_build_project_status.py,outputs/reports/current_status.html,Complete

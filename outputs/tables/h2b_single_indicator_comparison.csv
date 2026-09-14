@@ -1,0 +1,4 @@
+model,term,n,countries,parameters,weighted_brier,weighted_log_loss
+Single: viepol,viepol,27663,23,33,0.1491324040108929,0.4558671622453655
+Single: wpestop,wpestop,27663,23,33,0.14882995788319714,0.45509460676572216
+Single: votedir,votedir,27663,23,33,0.14918180039939968,0.4552271736181648

@@ -1,0 +1,5 @@
+measure,measure_label,weighting,contrast,difference,se,ci_low,ci_high
+distrust_index_three,Political distrust index,weighted,Populist minus non-populist,0.6652013649529422,0.0456642076700895,0.5757011625370091,0.7547015673688754
+distrust_index_three,Political distrust index,unweighted,Populist minus non-populist,0.8664723280810867,0.03218072288061638,0.8033992702386145,0.9295453859235588
+viepol,People's views should prevail (viepol),weighted,Populist minus non-populist,0.6275834388889185,0.04388783734644317,0.541564858330538,0.7136020194472991
+viepol,People's views should prevail (viepol),unweighted,Populist minus non-populist,0.6662641762360844,0.03011878062824721,0.6072324509464572,0.7252959015257116

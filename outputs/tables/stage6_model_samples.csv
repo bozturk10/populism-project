@@ -1,0 +1,5 @@
+model,model_label,weighting,n,populist_voters,non_populist_voters,countries,kish_effective_n
+M1,H1 adjusted,anweight,28657,7002,21655,23,14216.19292693023
+M2,H2a adjusted,anweight,28089,6881,21208,23,13950.072196062694
+S1,Expanded: + political interest,anweight,28040,6865,21175,23,13923.225940032391
+S1-U,Expanded unweighted,unweighted,28040,6865,21175,23,28040.0

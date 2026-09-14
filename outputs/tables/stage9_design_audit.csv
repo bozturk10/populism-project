@@ -1,0 +1,24 @@
+cntry,n,psu_count,stratum_count,singleton_psu_share,single_psu_stratum_share,psu_missing,stratum_missing,variance_method
+AT,1285,1285,117,1.0,0.02564102564102564,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+BE,828,502,81,0.7370517928286853,0.08641975308641975,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+BG,1375,435,78,0.15402298850574714,0.01282051282051282,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+CH,636,636,1,1.0,0.0,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+CZ,1311,529,57,0.20226843100189035,0.0,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+DE,5397,179,89,0.0,0.0,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+EE,900,900,10,1.0,0.0,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+ES,1371,448,58,0.16964285714285715,0.017241379310344827,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+FI,1077,1077,703,1.0,0.46799431009957326,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+FR,795,287,42,0.3623693379790941,0.19047619047619047,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+GR,1703,195,25,0.035897435897435895,0.04,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+HR,652,469,13,0.7782515991471215,0.0,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+HU,1003,673,141,0.8380386329866271,0.18439716312056736,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+IE,1041,470,17,0.3595744680851064,0.0,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+IS,589,487,329,0.9753593429158111,0.5197568389057751,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+IT,1021,298,31,0.4966442953020134,0.03225806451612903,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+LV,566,566,14,1.0,0.0,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+NL,1116,1116,48,1.0,0.0,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+NO,1032,1032,36,1.0,0.0,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+PL,1348,1152,155,0.8862847222222222,0.09032258064516129,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+SE,1737,1737,8,1.0,0.0,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+SI,555,262,45,0.3282442748091603,0.0,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted
+SK,751,247,31,0.3076923076923077,0.0,0,0,anweight-weighted logistic GEE; PSU-cluster robust; strata audited but not Taylor-adjusted

@@ -1,0 +1,5 @@
+sample,retained,dropped_from_outcome_sample,retained_share,countries
+H1 primary: distrust + primary controls,28657,4103,0.8747557997557998,23
+H2 primary: H1 + viepol + primary controls,28089,4671,0.8574175824175824,23
+H2 expanded: primary + polintr,28040,4720,0.8559218559218559,23
+H2 mode sensitivity: expanded + mode,27995,4765,0.8545482295482295,23

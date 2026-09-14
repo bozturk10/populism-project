@@ -1,0 +1,9 @@
+component,primary_rule,sensitivity_rule
+Country adjustment,Country fixed intercepts; DE reference,"Re-include CY, GB, LT, and PT once"
+Weight,ESS anweight,Repeat the final specification once unweighted
+Age,"(agea - 50) / 10, linear",No polynomial unless diagnostics show failure
+Gender,Categorical gndr; code 1 (male) reference,None; report source-variable limitation
+Education,Categorical eisced 1-7; code 4 reference; 55 missing,None
+Political interest,Excluded from primary control set,Expanded model: categorical polintr; code 4 reference
+Survey mode,Descriptive only,One categorical adjustment; code 1 CAPI reference
+Missing data,Model-specific complete cases,No imputation; report each model sample

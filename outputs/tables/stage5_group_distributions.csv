@@ -1,0 +1,25 @@
+measure,measure_label,weighting,voting_group,score_band,n,share
+distrust_index_three,Political distrust index,weighted,Non-populist-party voters,0-3,3292,0.11624018893657902
+distrust_index_three,Political distrust index,weighted,Non-populist-party voters,4-7,14016,0.6514947360678356
+distrust_index_three,Political distrust index,weighted,Non-populist-party voters,8-10,3900,0.23226507499558546
+distrust_index_three,Political distrust index,weighted,Populist-party voters,0-3,664,0.07561254509638655
+distrust_index_three,Political distrust index,weighted,Populist-party voters,4-7,4102,0.600410113225858
+distrust_index_three,Political distrust index,weighted,Populist-party voters,8-10,2115,0.3239773416777552
+distrust_index_three,Political distrust index,unweighted,Non-populist-party voters,0-3,3292,0.15522444360618634
+distrust_index_three,Political distrust index,unweighted,Non-populist-party voters,4-7,14016,0.6608826857789514
+distrust_index_three,Political distrust index,unweighted,Non-populist-party voters,8-10,3900,0.1838928706148623
+distrust_index_three,Political distrust index,unweighted,Populist-party voters,0-3,664,0.09649760209271908
+distrust_index_three,Political distrust index,unweighted,Populist-party voters,4-7,4102,0.5961342828077314
+distrust_index_three,Political distrust index,unweighted,Populist-party voters,8-10,2115,0.3073681150995495
+viepol,People's views should prevail (viepol),weighted,Non-populist-party voters,0-3,1490,0.06760269879925558
+viepol,People's views should prevail (viepol),weighted,Non-populist-party voters,4-7,9048,0.44054752958050775
+viepol,People's views should prevail (viepol),weighted,Non-populist-party voters,8-10,10670,0.4918497716202368
+viepol,People's views should prevail (viepol),weighted,Populist-party voters,0-3,224,0.036101864787183226
+viepol,People's views should prevail (viepol),weighted,Populist-party voters,4-7,2401,0.36297248601793597
+viepol,People's views should prevail (viepol),weighted,Populist-party voters,8-10,4256,0.6009256491948806
+viepol,People's views should prevail (viepol),unweighted,Non-populist-party voters,0-3,1490,0.07025650697849868
+viepol,People's views should prevail (viepol),unweighted,Non-populist-party voters,4-7,9048,0.4266314598264806
+viepol,People's views should prevail (viepol),unweighted,Non-populist-party voters,8-10,10670,0.5031120331950207
+viepol,People's views should prevail (viepol),unweighted,Populist-party voters,0-3,224,0.03255340793489318
+viepol,People's views should prevail (viepol),unweighted,Populist-party voters,4-7,2401,0.34893184130213634
+viepol,People's views should prevail (viepol),unweighted,Populist-party voters,8-10,4256,0.6185147507629705

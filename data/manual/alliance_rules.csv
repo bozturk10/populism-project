@@ -1,0 +1,26 @@
+cntry,ess_variable,ess_party_code,ess_party_label,alliance_status,final_populist,final_borderline,evidence
+BG,prtvtebg,7,NFSB-Volya,homogeneous_populist,1,0,"ESS label components NFSB and Volya are firm populist in PopuList 4.0"
+ES,prtvtfes,14,Navarra Suma,homogeneous_non_populist,0,0,"PP, Citizens and UPN alliance; no component is classified populist in PopuList 4.0"
+ES,prtvtfes,15,Més Compromis,homogeneous_non_populist,0,0,"Compromís electoral list; no component is classified populist in PopuList 4.0"
+HR,prtvtbhr,1,"HDZ, HSLS",homogeneous_non_populist,0,0,"HDZ firm populist period ended before 2020; HSLS is not listed in PopuList 4.0"
+HR,prtvtbhr,3,"DP, HS, Blok za Hrvatsku, HKS, Hrast",homogeneous_populist,1,0,"All named components are firm populist in PopuList 4.0 at the 2020 election"
+HR,prtvtbhr,5,"Možemo, Zagreb je naš, NLJ, RF, Orah",mixed_alliance,,,"PopuList classifies Možemo and RF as populist while other components are not listed"
+HR,prtvtbhr,6,"SiP, Pametno, Fokus",homogeneous_non_populist,0,0,"No named component is classified populist in PopuList 4.0"
+IT,prtvtdit,8,Noi con l'Italia - UDC,homogeneous_non_populist,0,0,"No named component is classified populist in PopuList 4.0"
+LT,prtvclt1,6,Centre Party - Nationalists (CPT),homogeneous_populist,1,0,"Lithuanian Centre Party is firm populist in PopuList 4.0 at the 2020 election"
+LV,prtvtalv,14,Par alternatīvu,unresolved_alliance,,,"Party Facts identifies an alliance but available identifiers do not resolve its components"
+ME,prtvtame,7,Albanska koalicija - Jednoglasno,outside_populist_coverage,,,Montenegro is outside PopuList 4.0 country coverage
+ME,prtvtame,10,Albanska lista - Genci Nimanbegu,outside_populist_coverage,,,Montenegro is outside PopuList 4.0 country coverage
+ME,prtvtame,11,Demokrate - Mir je nasa nacija,outside_populist_coverage,,,Montenegro is outside PopuList 4.0 country coverage
+MK,prtvtmk,1,Socijaldemokratski sojuz na Makedonija (SDSM) i Koalicija „Možeme“,outside_populist_coverage,,,North Macedonia is outside PopuList 4.0 country coverage
+MK,prtvtmk,4,Alijansa za Albancite i Alternativa,outside_populist_coverage,,,North Macedonia is outside PopuList 4.0 country coverage
+RS,prtvtars,7,UJEDINjENA DEMOKRATSKA SRBIJA,outside_populist_coverage,,,Serbia is outside PopuList 4.0 country coverage
+RS,prtvtars,8,Akademik Muamer Zukorlić - Samo pravo,outside_populist_coverage,,,Serbia is outside PopuList 4.0 country coverage
+RS,prtvtars,9,METLA 2020,outside_populist_coverage,,,Serbia is outside PopuList 4.0 country coverage
+RS,prtvtars,10,Milan Stamatović - Zdravo da pobedi - Dragan Jovanović - Bolja Srbija - Zdrava,outside_populist_coverage,,,Serbia is outside PopuList 4.0 country coverage
+RS,prtvtars,13,NARODNI BLOK - Velimir Ilić - general Momir Stojanović,outside_populist_coverage,,,Serbia is outside PopuList 4.0 country coverage
+RS,prtvtars,15,SUVERENISTI,outside_populist_coverage,,,Serbia is outside PopuList 4.0 country coverage
+RS,prtvtars,18,NEK MASKE PADNU - Zelena stranka - Nova stranka,outside_populist_coverage,,,Serbia is outside PopuList 4.0 country coverage
+RS,prtvtars,20,Čedomir Jovanović - KOALICIJA ZA MIR,outside_populist_coverage,,,Serbia is outside PopuList 4.0 country coverage
+RS,prtvtars,21,POKRET LEVIJATAN - ŽIVIM ZA SRBIJU,outside_populist_coverage,,,Serbia is outside PopuList 4.0 country coverage
+SK,prtvtesk,5,Pogresívne Slovensko - Spolu,homogeneous_non_populist,0,0,"Neither Progressive Slovakia nor SPOLU is classified populist in PopuList 4.0"

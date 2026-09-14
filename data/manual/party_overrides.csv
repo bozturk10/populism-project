@@ -1,0 +1,18 @@
+cntry,ess_variable,ess_party_code,ess_party_label,action,target_partyfacts_id,target_populist_party,relationship,final_populist,final_borderline,evidence
+BE,prtvtebe,3,N-VA,map,756,Nieuw-Vlaamse Alliantie,id_version_mismatch,0,1,Party Facts ESS linkage and PopuList 4.0 exact Belgian party identity
+BE,prtvtebe,6,Vlaams Belang,map,553,Vlaams Belang,rename_direct_successor,1,0,Party Facts links Vlaams Blok/Belang to 553; PopuList Vlaams Belang is 553
+EE,prtvthee,6,Eesti Konservatiivne Rahvaerakond,map,110,Eesti Konservatiivne Rahvaerakond,successor_id_mismatch,1,0,Party Facts historical predecessor link and exact PopuList identity
+FI,prtvtefi,18,Left Alliance,map,1096,Demokraattinen Liitto | Vasemmistoliitto,id_version_mismatch,0,0,Exact Finnish and English identity in Party Facts and PopuList 4.0
+FR,prtvtefr,9,LR (Les Républicains),map,,Les Républicains,populist_id_missing,0,0,Exact French party identity in PopuList 4.0
+GR,prtvtdgr,8,Πλεύση Ελευθερίας,map,,Πλεύση Ελευθερίας - Ζωή Κωνσταντοπούλου,populist_id_missing,1,0,Exact Greek and English identity in PopuList 4.0
+IE,prtvtdie,7,Socialist Party,map,1448,Socialist Party,cross_variable_id,0,0,Party Facts Round 10 prtc record and PopuList use 1448
+SI,prtvtfsi,6,SD - Socialni demokrati,classify,,,source_id_conflict,0,0,Party Facts ID 1403 identifies Socialni demokrati but PopuList 4.0 assigns that ID to the distinct party Združena levica
+LT,prtvclt1,7,National Alliance (NS),map,,Nacionalinis susivienijimas,populist_id_missing,0,1,Exact Lithuanian and English identity in PopuList 4.0
+LT,prtvclt2,7,National Alliance (NS),map,,Nacionalinis susivienijimas,populist_id_missing,0,1,Exact Lithuanian and English identity in PopuList 4.0
+LT,prtvclt3,7,National Alliance (NS),map,,Nacionalinis susivienijimas,populist_id_missing,0,1,Exact Lithuanian and English identity in PopuList 4.0
+NO,prtvtbno,1,Rødt,map,44,Rødt,successor_id_mismatch,0,1,Party Facts historical Red Electoral Alliance link and exact PopuList identity
+NO,prtvtbno,6,Senterpartiet,map,,Senterpartiet,populist_id_missing,0,1,Exact Norwegian identity in PopuList 4.0
+GB,prtvtdgb,10,Ulster Unionist Party (nir),classify,,,missing_partyfacts_id,0,0,Identified ESS party absent from PopuList 4.0
+GB,prtvtdgb,11,Democratic Unionist Party (nir),map,335,Democratic Unionist Party,missing_partyfacts_id,0,1,Exact party identity in PopuList 4.0; firm classification absent at 2019 election
+GB,prtvtdgb,12,Sinn Féin (nir),map,4,Sinn Féin,cross_country_identity,1,0,Same political party as PopuList Ireland record; Party Facts and ParlGov identity corroborate
+GB,prtvtdgb,23,Independent candidate,exclude,,,not_a_party,,,ESS response is an independent candidate rather than a party

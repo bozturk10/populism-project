@@ -19,10 +19,22 @@ Install [uv](https://docs.astral.sh/uv/) and create the locked environment:
 ```sh
 uv sync --locked
 ```
+## Required data
 
-Download the required raw data as described in
-[`data/raw/README.md`](data/raw/README.md). Raw and processed respondent data are
-not committed to this repository.
+The analysis uses:
+
+- European Social Survey Round 10 integrated file, edition 3.3;
+- European Social Survey Round 10 self-completion file, edition 3.2;
+- ESS-Party Facts bridge, version 0.1;
+- PopuList 4.0;
+- ParlGov 2024 stable release.
+
+ESS files require registration and manual download from the
+[ESS Data Portal](https://ess.sikt.no/en/study/172ac431-2a06-41df-9dab-c1fd8f3877e7).
+Exact filenames, local paths, and sources are listed in
+[`data/raw/README.md`](data/raw/README.md) and
+[`data/raw/documentation_manifest.md`](data/raw/documentation_manifest.md).
+
 
 Run the workflow from the repository root:
 
@@ -44,51 +56,7 @@ uv run ruff check .
 The scripts create analysis-ready data under `data/processed/` and refresh the
 tables, figures, and readable reports under `outputs/`.
 
-## Required data
 
-The analysis uses:
-
-- European Social Survey Round 10 integrated file, edition 3.3;
-- European Social Survey Round 10 self-completion file, edition 3.2;
-- ESS-Party Facts bridge, version 0.1;
-- PopuList 4.0;
-- ParlGov 2024 stable release.
-
-ESS files require registration and manual download from the
-[ESS Data Portal](https://ess.sikt.no/en/study/172ac431-2a06-41df-9dab-c1fd8f3877e7).
-Exact filenames, local paths, and sources are listed in
-[`data/raw/README.md`](data/raw/README.md) and
-[`data/raw/documentation_manifest.md`](data/raw/documentation_manifest.md).
-
-## Repository structure
-
-```text
-analysis/               numbered scripts that reproduce the analysis
-src/populism_project/   reusable cleaning, measurement, and modelling functions
-tests/                  automated tests for the reusable functions
-data/manual/            reviewed party and alliance decisions
-data/raw/               source inventory and download instructions
-data/processed/         generated analysis data, excluded from Git
-docs/                   data dictionary and methodological decisions
-outputs/figures/        generated figures used in the paper and appendix
-outputs/tables/         generated numerical results
-outputs/reports/        generated Markdown analysis reports
-```
-
-The numbered scripts define execution order; reusable implementation remains in
-`src/populism_project/` so cleaning and statistical routines can be tested
-independently. Do not modify raw data in place.
-
-## Key documentation
-
-- [`analysis/README.md`](analysis/README.md): script-to-output map;
-- [`docs/current_research_scope.md`](docs/current_research_scope.md): hypotheses
-  and reported scope;
-- [`docs/data_dictionary.md`](docs/data_dictionary.md): variable definitions;
-- [`docs/methods_decision_log.md`](docs/methods_decision_log.md): analytical
-  decisions and their consequences;
-- [`docs/party_classification_rules.md`](docs/party_classification_rules.md):
-  party-linking rules and exceptions.
 
 ## Authors
 
